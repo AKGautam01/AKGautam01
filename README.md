@@ -22,8 +22,8 @@ Welcome to my GitHub profile! I'm passionate about backend automation, cloud wor
 - [`cloud-automation-labs`](https://github.com/AKGuarumo11/cloud-automation-labs): EC2 + IAM workflow with GitHub Actions (coming soon)
 
 ## 📜 Certifications
-- Oracle Cloud Infrastructure Foundations 2024
-- Oracle AI Foundations 2024
+- Oracle Cloud Infrastructure Foundations 2025
+- Oracle AI Foundations 2025
 - OCI Architect Associate (In Progress)
 
 📬 Reach me at: Email: atul.gautam22@gmail.com
