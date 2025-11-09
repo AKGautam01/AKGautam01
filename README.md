@@ -1,3 +1,4 @@
+Welcome to my GitHub profile! I'm passionate about backend automation, cloud workflows, and building reproducible documentation for remote teams.
 # 👋 Hi, I'm Atul Kumar Gautam
 
 🎯 Cloud Automation Intern | Remote IT Support Specialist  
@@ -15,13 +16,15 @@
 - Documentation-first delivery: README files, runbooks, lab journals
 
 ## 📁 Featured Projects
-- `client-onboarding-demo`: Power Automate + backend workflow
-- `mspp-automation-pipeline`: Cloud automation sample
-- `cloud-automation-labs`: EC2 + IAM workflow with GitHub Actions (coming soon)
+## 🚀 Featured Projects
+- [`client-onboarding-demo`](https://github.com/AKGuarumo11/client-onboarding-demo): Power Automate + backend workflow
+- [`mspp-automation-labs`](https://github.com/AKGuarumo11/mspp-automation-labs): Cloud automation with sample workflows
+- [`cloud-automation-labs`](https://github.com/AKGuarumo11/cloud-automation-labs): EC2 + IAM workflow with GitHub Actions (coming soon)
 
 ## 📜 Certifications
 - Oracle Cloud Infrastructure Foundations 2024
 - Oracle AI Foundations 2024
 - OCI Architect Associate (In Progress)
 
-📬 Reach me at: [atul.gautam22@gmail.com] | [https://www.linkedin.com/in/atul-kumar-gautam/]
+📬 Reach me at: Email: atul.gautam22@gmail.com
+LinkedIn: https://www.linkedin.com/in/atul-kumar-gautam/
